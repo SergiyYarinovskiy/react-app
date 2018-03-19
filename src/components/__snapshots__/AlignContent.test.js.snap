@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+Array [
+  <h3>
+    align-content - 
+    :
+</h3>,
+  <div
+    className={undefined}
+>
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "20px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "40px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "60px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "80px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "20px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "40px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "60px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "80px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "20px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "40px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "60px",
+              }
+        }
+    />
+    <div
+        className="rectangle-horizontal"
+        style={
+            Object {
+                "width": "80px",
+              }
+        }
+    />
+</div>,
+]
+`;

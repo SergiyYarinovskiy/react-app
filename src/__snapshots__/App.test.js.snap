@@ -1,0 +1,740 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div>
+  <ul
+    className="links"
+  >
+    <li
+      className="home"
+    >
+      <a>
+        Home
+      </a>
+    </li>
+    <li
+      className="elements"
+    >
+      <a>
+        Elements
+      </a>
+    </li>
+    <li
+      className="generic"
+    >
+      <a>
+        Generic
+      </a>
+    </li>
+  </ul>
+  <div
+    className="wrapper"
+  >
+    <h3
+      className="center"
+    >
+      align-items - 
+      flex-start
+      :
+    </h3>
+    <div
+      className="parent-start"
+    >
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "80px",
+          }
+        }
+      />
+    </div>
+    <hr />
+    <h3
+      className="center"
+    >
+      align-items - 
+      flex-end
+      :
+    </h3>
+    <div
+      className="parent-end"
+    >
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "80px",
+          }
+        }
+      />
+    </div>
+    <hr />
+    <h3
+      className="center"
+    >
+      align-items - 
+      center
+      :
+    </h3>
+    <div
+      className="parent-center"
+    >
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "80px",
+          }
+        }
+      />
+    </div>
+    <hr />
+    <h3
+      className="center"
+    >
+      align-items - 
+      baseline
+      :
+    </h3>
+    <div
+      className="parent-baseline"
+    >
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle"
+        style={
+          Object {
+            "height": "80px",
+          }
+        }
+      />
+    </div>
+    <hr />
+    <h3>
+      align-content - 
+      flex-start
+      :
+    </h3>
+    <div
+      className="parent-horizontal-start"
+    >
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+    </div>
+    <hr />
+    <h3>
+      align-content - 
+      flex-end
+      :
+    </h3>
+    <div
+      className="parent-horizontal-end"
+    >
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+    </div>
+    <hr />
+    <h3>
+      align-content - 
+      center
+      :
+    </h3>
+    <div
+      className="parent-horizontal-center"
+    >
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+    </div>
+    <hr />
+    <h3>
+      align-content - 
+      space-around
+      :
+    </h3>
+    <div
+      className="parent-horizontal-around"
+    >
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+    </div>
+    <hr />
+    <h3>
+      align-content - 
+      space-between
+      :
+    </h3>
+    <div
+      className="parent-horizontal-between"
+    >
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "20px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "40px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "60px",
+          }
+        }
+      />
+      <div
+        className="rectangle-horizontal"
+        style={
+          Object {
+            "width": "80px",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;

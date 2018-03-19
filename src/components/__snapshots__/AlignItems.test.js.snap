@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+Array [
+  <h3
+    className="center"
+>
+    align-items - 
+    :
+</h3>,
+  <div
+    className={undefined}
+>
+    <div
+        className="rectangle"
+        style={
+            Object {
+                "height": "20px",
+              }
+        }
+    />
+    <div
+        className="rectangle"
+        style={
+            Object {
+                "height": "40px",
+              }
+        }
+    />
+    <div
+        className="rectangle"
+        style={
+            Object {
+                "height": "60px",
+              }
+        }
+    />
+    <div
+        className="rectangle"
+        style={
+            Object {
+                "height": "80px",
+              }
+        }
+    />
+</div>,
+]
+`;
